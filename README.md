@@ -1,1 +1,0 @@
-Sphinx-Training-Certificate.jpg
